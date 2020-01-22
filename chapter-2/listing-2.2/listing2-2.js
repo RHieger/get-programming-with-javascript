@@ -23,7 +23,7 @@ score = 100;
  * 
  */
 
-console.log('\nDECLARED VARIABLES\n')
+console.log('\nDECLARED VARIABLES\n');
 
  declaredVariables = {
 
