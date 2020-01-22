@@ -1,0 +1,12 @@
+{
+  "name": "listing-2.7",
+  "version": "1.0.0",
+  "description": "Chapter 2: Listing 2.7--Declaring and Assigning in 1 Step",
+  "main": "listing-2.7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-2.7.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
