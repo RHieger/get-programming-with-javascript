@@ -1,0 +1,12 @@
+{
+  "name": "listing-3.5",
+  "version": "1.0.0",
+  "description": "Chapter 3: Listing 3.5--An Object With a Single Property",
+  "main": "listing-3.5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-3.5.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
