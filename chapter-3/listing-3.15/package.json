@@ -1,0 +1,12 @@
+{
+  "name": "listing-3.15",
+  "version": "1.0.0",
+  "description": "Chapter 3: Listing 3.15--A Question and Answer for a Quiz App",
+  "main": "listing-3.15.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-3.15.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
