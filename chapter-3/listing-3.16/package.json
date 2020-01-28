@@ -1,0 +1,12 @@
+{
+  "name": "listing-3.16",
+  "version": "1.0.0",
+  "description": "Chapter 3: Listing 3.16--A Player Object",
+  "main": "listing-3.16.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-3.16.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
