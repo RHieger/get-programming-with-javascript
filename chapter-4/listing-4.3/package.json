@@ -1,0 +1,12 @@
+{
+  "name": "listing-4.3",
+  "version": "1.0.0",
+  "description": "Chapter 4: Listing 4.3--Adding Tax to Find the Total Cost",
+  "main": "listing-4.3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-4.3.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
