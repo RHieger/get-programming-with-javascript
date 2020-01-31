@@ -1,0 +1,12 @@
+{
+  "name": "listing-4.6",
+  "version": "1.0.0",
+  "description": "Chapter 4: Listing 4.6--Calling the sayHello() Function 3 Times",
+  "main": "listing-4.6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-4.6.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
