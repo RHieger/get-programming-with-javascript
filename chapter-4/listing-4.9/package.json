@@ -1,0 +1,12 @@
+{
+  "name": "listing-4.9",
+  "version": "1.0.0",
+  "description": "Chapter 4: Listing 4.9--Using a Function to Display Object Properties",
+  "main": "listing-4.9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-4.9.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
