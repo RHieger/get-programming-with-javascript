@@ -1,0 +1,12 @@
+{
+  "name": "listing-4.14",
+  "version": "1.0.0",
+  "description": "Chapter 4: Listing 4.14--A Function to Display Player Information",
+  "main": "listing-4.14.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-4.14.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
