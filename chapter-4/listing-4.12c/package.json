@@ -1,0 +1,12 @@
+{
+  "name": "listing-4.12c",
+  "version": "1.0.0",
+  "description": "Chapter 4: Listing 4.12c--Using Functions to Add and Display Tax (Challenge)",
+  "main": "listing-4.12c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-4.12c.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
