@@ -1,0 +1,12 @@
+{
+  "name": "listing-5.2",
+  "version": "1.0.0",
+  "description": "Chapter 5: Listing 5.2--Breaking a Function by Changing a Variable Name",
+  "main": "listing-5.2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-5.2.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
