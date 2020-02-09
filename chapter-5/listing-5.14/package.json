@@ -1,0 +1,12 @@
+{
+  "name": "listing-5.14",
+  "version": "1.0.0",
+  "description": "Chapter 5: Listing 5.14--Diplaying a Player's Information Using Object Properties",
+  "main": "listing-5.14.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-5.14.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
