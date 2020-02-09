@@ -1,0 +1,12 @@
+{
+  "name": "listing-5.13c",
+  "version": "1.0.0",
+  "description": "Chapter 5: Listing-5.13c--Displaying a User's Info (WITH CHALLENGE: See comments in code.)",
+  "main": "listing-5.13c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-5.13c.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
