@@ -1,0 +1,12 @@
+{
+  "name": "listing-6.7",
+  "version": "1.0.0",
+  "description": "Chapter 6: Listing 6.7--Getting a String for a Player's Name",
+  "main": "listing-6.7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-6.7.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
