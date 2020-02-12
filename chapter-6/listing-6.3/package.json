@@ -1,0 +1,12 @@
+{
+  "name": "listing-6.3",
+  "version": "1.0.0",
+  "description": "Chapter 6: Listing 6.3--Using the Return Value as an Argument",
+  "main": "listing-6.3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-6.3.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
