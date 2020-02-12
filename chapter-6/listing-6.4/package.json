@@ -1,0 +1,12 @@
+{
+  "name": "listing-6.4",
+  "version": "1.0.0",
+  "description": "Chapter 6: Listing 6.4--Returning the Sum of Two Numbers",
+  "main": "listing-6.4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-6.4.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
