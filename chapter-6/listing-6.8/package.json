@@ -1,0 +1,12 @@
+{
+  "name": "listing-6.8",
+  "version": "1.0.0",
+  "description": "Chapter 6: Listing 6.8--Getting Strings for a Player's Health and Location",
+  "main": "listing-6.8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-6.8.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
