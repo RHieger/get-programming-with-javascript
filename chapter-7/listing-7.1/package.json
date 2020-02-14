@@ -1,0 +1,12 @@
+{
+  "name": "listing-7.1",
+  "version": "1.0.0",
+  "description": "Chapter 7: Listing 7.1--Passing a Function and Object as an Argument",
+  "main": "listing-7.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-7.1.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
