@@ -1,0 +1,12 @@
+{
+  "name": "listing-7.2",
+  "version": "1.0.0",
+  "description": "Chapter 7: Listing 7.2--A Function that Adds Properties to an Object",
+  "main": "listing-7.2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-7.2.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
