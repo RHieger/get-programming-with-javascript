@@ -1,0 +1,12 @@
+{
+  "name": "listing-7.7",
+  "version": "1.0.0",
+  "description": "Chapter 7: Listing 7.7--Converting a String to Uppercase",
+  "main": "listing-7.7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-7.7.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
