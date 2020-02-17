@@ -1,0 +1,12 @@
+{
+  "name": "listing-7.8",
+  "version": "1.0.0",
+  "description": "Chapter 7: Listing 7.8--Finding Substrings",
+  "main": "listing-7.8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-7.8.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
