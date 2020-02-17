@@ -1,0 +1,12 @@
+{
+  "name": "listing-7.9",
+  "version": "1.0.0",
+  "description": "Chapter 7: Listing 7.9--Finding a Character with indexOf()",
+  "main": "listing-7.9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-7.9.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
