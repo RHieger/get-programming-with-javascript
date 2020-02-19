@@ -1,0 +1,12 @@
+{
+  "name": "listing-7.11",
+  "version": "1.0.0",
+  "description": "Chapter 7: Listing 7.11--Displaying Player Information Using Objects",
+  "main": "listing-7.11.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-7.11.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
