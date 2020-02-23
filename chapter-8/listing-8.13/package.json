@@ -1,0 +1,12 @@
+{
+  "name": "listing-8.13",
+  "version": "1.0.0",
+  "description": "Chapter 8: Listing 8.13--Displaying Player Items",
+  "main": "listing-8.13.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-8.13.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
