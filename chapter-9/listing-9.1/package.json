@@ -1,0 +1,12 @@
+{
+  "name": "listing-9.1",
+  "version": "1.0.0",
+  "description": "Chapter 9: Listing 9.1--Using a Function to Create an Object",
+  "main": "listing-9.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-9.1.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
