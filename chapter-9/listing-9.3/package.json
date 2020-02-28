@@ -1,0 +1,12 @@
+{
+  "name": "listing-9.3",
+  "version": "1.0.0",
+  "description": "Chapter 9: Listing 9.3--An Array of Constructed Objects",
+  "main": "listing-9.3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-9.3.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
