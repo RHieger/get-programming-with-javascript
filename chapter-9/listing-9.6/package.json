@@ -1,0 +1,12 @@
+{
+  "name": "listing-9.6",
+  "version": "1.0.0",
+  "description": "Chapter 9: Listing 9.6--Creating Multiple Plants with Our Constructor",
+  "main": "listing-9.6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-9.6.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
