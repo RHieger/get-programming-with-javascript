@@ -1,0 +1,12 @@
+{
+  "name": "listing-9.9",
+  "version": "1.0.0",
+  "description": "Chapter 9: Listing 9.9--A Place Constructor Part I",
+  "main": "listing-9.9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-9.9.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
