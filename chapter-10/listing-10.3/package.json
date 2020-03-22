@@ -1,0 +1,12 @@
+{
+  "name": "chapter-10",
+  "version": "1.0.0",
+  "description": "Chapter 10: Listing 10.3--Using a Function to Add Ages",
+  "main": "listing-10.3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-10.3.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
