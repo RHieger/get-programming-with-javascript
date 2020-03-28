@@ -1,0 +1,12 @@
+{
+  "name": "listing-10.8",
+  "version": "1.0.0",
+  "description": "Chapter 10: Listing 10.8--An exits Object",
+  "main": "listing-10.8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-10.8.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
