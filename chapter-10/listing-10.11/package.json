@@ -1,0 +1,12 @@
+{
+  "name": "listing-10.11",
+  "version": "1.0.0",
+  "description": "Chapter 10: Listing 10.11--A Map with Four Locations",
+  "main": "listing-10.11.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node listing-10.11.js"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
